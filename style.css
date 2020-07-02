@@ -42,7 +42,7 @@ h1,
 h1,
 .mobile-name,
 .edu-icons {
-  color: #696969;
+  color: #7ce0e7;
 }
 
 .list-social-icons a,
@@ -209,9 +209,9 @@ button:active {
     padding: 0.5rem;
   }
  .navbar-brand .img-profile {
-    max-width: 12rem;
+    max-width: 20rem;
     max-height: 12rem;
-    border: 0.3rem solid #1873cde0;
+    border: 0.2rem solid #1873cde0;
     border-radius: 100%;
   }
 .navbar-collapse {
