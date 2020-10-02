@@ -48,7 +48,7 @@ h1,
 .list-social-icons a,
 a:hover,
 a:focus {
-  color: #c4c4c4;
+  color: #20e9e9;
 }
 
 .list-social-icons {
@@ -186,7 +186,8 @@ button:active {
   }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 992px
+) {
   body {
     padding-top: 0;
     padding-left: 18rem;
